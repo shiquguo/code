@@ -1,0 +1,30 @@
+# robots.txt for decoration company website
+
+User-agent: *
+Allow: /
+
+# 不允许爬取的目录
+Disallow: /admin/
+Disallow: /temp/
+Disallow: /private/
+Disallow: /includes/
+Disallow: /cgi-bin/
+
+# 不允许爬取的文件类型
+Disallow: /*.pdf$
+Disallow: /*.doc$
+Disallow: /*.docx$
+Disallow: /*.xls$
+Disallow: /*.xlsx$
+
+# 允许爬取的重要目录
+Allow: /images/
+Allow: /css/
+Allow: /js/
+Allow: /cases/
+Allow: /services/
+Allow: /about/
+Allow: /contact/
+
+# 网站地图位置
+Sitemap: https://yourdomain.com/sitemap.xml

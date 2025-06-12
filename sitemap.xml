@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <!-- 首页 -->
+   <url>
+      <loc>https://yourdomain.com/</loc>
+      <lastmod>2024-01-01</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+   </url>
+
+   <!-- 关于我们页面 -->
+   <url>
+      <loc>https://yourdomain.com/about.html</loc>
+      <lastmod>2024-01-01</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <!-- 服务页面 -->
+   <url>
+      <loc>https://yourdomain.com/services.html</loc>
+      <lastmod>2024-01-01</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+   </url>
+
+   <!-- 案例展示页面 -->
+   <url>
+      <loc>https://yourdomain.com/cases.html</loc>
+      <lastmod>2024-01-01</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+   </url>
+
+   <!-- 联系我们页面 -->
+   <url>
+      <loc>https://yourdomain.com/contact.html</loc>
+      <lastmod>2024-01-01</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <!-- 各个案例详情页面 -->
+   <url>
+      <loc>https://yourdomain.com/cases/case1.html</loc>
+      <lastmod>2024-01-01</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+
+   <url>
+      <loc>https://yourdomain.com/cases/case2.html</loc>
+      <lastmod>2024-01-01</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+
+   <url>
+      <loc>https://yourdomain.com/cases/case3.html</loc>
+      <lastmod>2024-01-01</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+
+   <!-- 服务详情页面 -->
+   <url>
+      <loc>https://yourdomain.com/services/residential.html</loc>
+      <lastmod>2024-01-01</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+
+   <url>
+      <loc>https://yourdomain.com/services/commercial.html</loc>
+      <lastmod>2024-01-01</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+
+   <url>
+      <loc>https://yourdomain.com/services/office.html</loc>
+      <lastmod>2024-01-01</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+</urlset>
